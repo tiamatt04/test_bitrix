@@ -1,0 +1,1 @@
+<img src="/bitrix_d-element/site_urd-element/site_ur/include/bx_default_logo.gif" alt="" />
